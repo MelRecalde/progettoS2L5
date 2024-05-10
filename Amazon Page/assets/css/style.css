@@ -60,7 +60,7 @@ body {
 .Holiday h2 {
     background-image: url(../images/bg-image.png);
     background-repeat: no-repeat;
-    background-size:contain;
+    background-size: contain;
     background-position: center;
     padding-top: 50px;
     padding-bottom: 20px;
@@ -120,10 +120,11 @@ body {
     height: 170px;
     margin: 10px 10px;
     border: 1px solid lightgray;
-    box-shadow: 5px 2px 2px  #b9cadf4d ;
+    box-shadow: 5px 2px 2px #b9cadf4d;
     padding: 10px;
     border-radius: 30px;
 }
+
 .cart2 {
     background-image: url(../images/img_2.jpg);
     background-position: center;
@@ -133,10 +134,11 @@ body {
     height: 170px;
     margin: 10px 10px;
     border: 1px solid lightgray;
-    box-shadow: 5px 2px 2px  #b9cadf4d ;
+    box-shadow: 5px 2px 2px #b9cadf4d;
     padding: 10px;
     border-radius: 30px;
 }
+
 .cart3 {
     background-image: url(../images/img_3.jpg);
     background-position: center;
@@ -146,10 +148,11 @@ body {
     height: 170px;
     margin: 10px 10px;
     border: 1px solid lightgray;
-    box-shadow: 5px 2px 2px  #b9cadf4d ;
+    box-shadow: 5px 2px 2px #b9cadf4d;
     padding: 10px;
     border-radius: 30px;
 }
+
 .cart4 {
     background-image: url(../images/img_4.jpg);
     background-position: center;
@@ -159,7 +162,7 @@ body {
     height: 170px;
     margin: 10px 10px;
     border: 1px solid lightgray;
-    box-shadow: 5px 2px 2px  #b9cadf4d ;
+    box-shadow: 5px 2px 2px #b9cadf4d;
     padding: 10px;
     border-radius: 30px;
 }
@@ -169,6 +172,7 @@ body {
     margin: 20px;
     padding: 20px;
 }
+
 .art2 a {
     color: #1C6D73;
     font-size: x-small;
@@ -184,8 +188,9 @@ figcaption {
 .link-to-top {
     background-color: #364759;
 }
+
 .link-to-top a {
-    color:white;
+    color: white;
     text-decoration: none;
     font-size: xx-small;
     padding: 10px, auto;
