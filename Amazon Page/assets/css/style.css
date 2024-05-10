@@ -1,1 +1,193 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+    padding-left: auto, 50px;
+    text-align: center;
+    background-color: #E9EDEE;
+}
 
+.logo {
+    text-align: left;
+    background-color: #222F3F;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.footer {
+    background-color: #222F3F;
+    margin: 0px;
+    padding: 40px
+}
+
+#menu {
+    background-color: #36475B;
+    justify-content: start;
+    font-size: x-small;
+    list-style: none;
+    margin: 0 auto;
+    text-align: start;
+}
+
+#menu li {
+    display: inline-block;
+    margin: 2px;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+#menu a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: ;
+}
+
+.orange-bg {
+    background-color: #F56600;
+    margin: 15px;
+    padding: 0.5%;
+    color: white;
+    font-size: small;
+}
+
+.Holiday {
+    color: white;
+    margin: 20px;
+    background-color: #2F6D5E;
+}
+
+.Holiday h2 {
+    background-image: url(../images/bg-image.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+}
+
+.Holiday p {
+    background-image: url(../images/bg-image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 30px;
+    font-size: small;
+    margin-top: 0;
+
+
+}
+
+.Find {
+    display: inline;
+    text-align: left;
+    margin: 30px, 1px, 5px, 70px;
+    padding: 1%;
+}
+
+.Find a {
+    color: #1C6D73;
+    text-decoration: none;
+    font-size: x-small;
+    margin-left: 30px;
+}
+
+.Find h5 {
+    padding-left: 20px;
+}
+
+.container {
+    display: ;
+    background-color: white;
+    margin: 20px;
+    border-radius: 1px;
+    box-sizing: border-box;
+}
+
+.art1 {
+    display: flex;
+    margin: auto;
+    padding: 20px;
+}
+
+.cart1 {
+    background-image: url(../images/img_1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 400px;
+    height: 170px;
+    margin: 10px 10px;
+    border: 1px solid lightgray;
+    box-shadow: 5px 2px 2px  #b9cadf4d ;
+    padding: 10px;
+    border-radius: 30px;
+}
+.cart2 {
+    background-image: url(../images/img_2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 400px;
+    height: 170px;
+    margin: 10px 10px;
+    border: 1px solid lightgray;
+    box-shadow: 5px 2px 2px  #b9cadf4d ;
+    padding: 10px;
+    border-radius: 30px;
+}
+.cart3 {
+    background-image: url(../images/img_3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 400px;
+    height: 170px;
+    margin: 10px 10px;
+    border: 1px solid lightgray;
+    box-shadow: 5px 2px 2px  #b9cadf4d ;
+    padding: 10px;
+    border-radius: 30px;
+}
+.cart4 {
+    background-image: url(../images/img_4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 400px;
+    height: 170px;
+    margin: 10px 10px;
+    border: 1px solid lightgray;
+    box-shadow: 5px 2px 2px  #b9cadf4d ;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.art2 {
+    background-color: #FFFF;
+    margin: 20px;
+    padding: 20px;
+}
+.art2 a {
+    color: #1C6D73;
+    font-size: x-small;
+    text-decoration: none;
+    padding: 10px;
+}
+
+figcaption {
+    padding: 8px;
+    font-size: small;
+}
+
+.link-to-top {
+    background-color: #364759;
+}
+.link-to-top a {
+    color:white;
+    text-decoration: none;
+    font-size: xx-small;
+    padding: 10px, auto;
+    margin-bottom: 0;
+}
