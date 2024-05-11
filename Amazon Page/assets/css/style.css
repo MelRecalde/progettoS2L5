@@ -53,7 +53,7 @@ body {
 
 .Holiday {
     color: white;
-    margin: 20px;
+    margin: 5px;
     background-color: #2F6D5E;
 }
 
@@ -84,14 +84,17 @@ h5 {
     margin-bottom: 10px;
     padding-left: 20px;
     padding-top: 20px;
-    padding: 20px, 2%, 3%, 20px;
 }
 
 .container {
     background-color: white;
-    margin: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     border-radius: 1px;
+    display: block;
 }
+
+
 
 .art1 {
     display: inline-flex;
@@ -116,17 +119,6 @@ h5 {
 }*/
 
 .cart1 img {
-    box-sizing: border-box;
-    width: 200px;
-    height: 180px;
-    margin: 10px 10px;
-    border: 1px solid lightgray;
-    box-shadow: 5px 2px 2px #b9cadf4d;
-    padding: 0;
-    border-radius: 30px;
-}
-
-.cart2 img {
     box-sizing: border-box;
     width: 200px;
     height: 180px;
