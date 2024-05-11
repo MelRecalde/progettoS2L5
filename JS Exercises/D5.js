@@ -15,7 +15,10 @@ console.log("---------- ESERCIZIO 1 ----------")
 
 const pets = ['dog', 'cat', 'hamster', 'redfish']
 
-console.log(pets)
+for (let index = 0; index < pets.length; index++) {
+  const list = pets[index];
+  console.log(list)
+}
 
 /* ESERCIZIO 2
     Scrivi del codice per ordinare alfabeticamente gli elementi dell'array "pets".
